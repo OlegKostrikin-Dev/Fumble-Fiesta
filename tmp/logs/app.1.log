@@ -1,0 +1,24 @@
+[2024-02-01 20:22:36.359] [APP] [info] ::: LOG SESSION STARTED :::
+[20:22:36.361770] [Animation] [info] (th=2928) Log level for 'Animation' set to 'info'
+[20:22:36.361774] [APP] [warning] (th=2928) Change animation log level to off
+[20:22:38.366363] [BaseScriptSystem] [info] (th=2928) Log level for 'BaseScriptSystem' set to 'info'
+[20:22:39.221628] [MQObjectInspectorController] [info] (th=2928) Log level for 'MQObjectInspectorController' set to 'info'
+[20:22:39.334853] [FormulaController] [info] (th=2928) Log level for 'FormulaController' set to 'info'
+[20:22:39.894585] [SoundSystemOpenAL] [info] (th=13388) Log level for 'SoundSystemOpenAL' set to 'info'
+[20:22:39.915241] [BasePhysicsSystem] [info] (th=13388) Log level for 'BasePhysicsSystem' set to 'info'
+[20:22:42.950554] [APP] [info] (th=13388) GameCore initialization time: 3
+[20:22:44.371516] [Scene] [info] (th=13388) Log level for 'Scene' set to 'info'
+[20:22:50.280017] [DX11View] [info] (th=13388) Log level for 'DX11View' set to 'info'
+[20:22:58.419469] [MQEditorController] [info] (th=2928) Log level for 'MQEditorController' set to 'info'
+[20:22:58.427425] [ModeController] [info] (th=13388) Log level for 'ModeController' set to 'info'
+[20:23:21.463245] [NetworkScript] [info] (th=13388) Log level for 'NetworkScript' set to 'info'
+[20:23:21.463258] [NetworkScript] [info] (th=13388) gameTime: 6880 gettimeofday ms: 1706811801463 m_gameTimeOffset: 1706811794583
+[20:23:22.599759] [PhotonClient] [info] (th=13388) Log level for 'PhotonClient' set to 'info'
+[20:23:22.599772] [PhotonClient] [info] (th=13388) m_serverTimeOffset set to: 1704123141699 serverTime: 2688660900 currentTimeMS:1706811802599
+[20:23:22.599775] [PhotonClient] [info] (th=13388)  Final m_serverTimeOffset: 1704123141699 ServerTime -1606306395
+[20:23:22.599776] [PhotonClient] [info] (th=13388) PING: 83 variance: 36
+[20:23:23.116582] [NetworkScript] [info] (th=13388) ping: 75 delay: 264 sendMin: 75 sendMotorMax: 325
+
+[20:23:23.119144] [PhotonClient] [info] (th=13388) serverTimeOffset on PLAYING set to: 1704123141699
+[20:25:20.195706] [Analytics] [info] (th=2928) Log level for 'Analytics' set to 'info'
+[20:25:20.421709] [APP] [info] (th=2928) ::: LOG SESSION ENDED :::

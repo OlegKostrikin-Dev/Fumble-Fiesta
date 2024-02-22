@@ -1,0 +1,1 @@
+{"@class":"TriggerResource","id":{"uuid":"E1D23512-5EA2-4C42-893E-593CCF46D402"},"triggers":[{"@class":"StartTrigger","id":{"uuid":"B21AA2EF-6A53-4C51-98D2-9D5E3414E79C"},"isInverted":false,"logicOperation":0,"ownerScriptId":{"uuid":"79F8F9BD-97D7-43DA-B019-069699CBD72A"},"resultType":0,"triggerName":""}]}

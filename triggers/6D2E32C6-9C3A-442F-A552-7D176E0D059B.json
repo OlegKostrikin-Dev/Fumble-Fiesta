@@ -1,0 +1,1 @@
+{"@class":"TriggerResource","id":{"uuid":"6D2E32C6-9C3A-442F-A552-7D176E0D059B"},"triggers":[{"@class":"NetEnabledTrigger","event":2,"id":{"uuid":"27A14874-64BD-4900-86AD-CC235D6DB7A0"},"isInverted":false,"logicOperation":0,"ownerScriptId":{"uuid":"6D2E32C6-9C3A-442F-A552-7D176E0D059B"},"resultType":0,"triggerName":""}]}

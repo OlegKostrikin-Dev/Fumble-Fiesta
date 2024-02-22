@@ -1,0 +1,1 @@
+{"@class":"NetworkObject","ClientNumVarBL":{"@class":"BindingLink","target":{"type":0}},"NetworkAuthorityStrategy":"SyncWithObject","NetworkLagCompensationType":"LastPrevInterpolation","TargetObjectBindingLink":{"@class":"BindingLink","target":{"id":{"uuid":"F6248742-B3AF-44F9-8778-83BF3D0DADF2"},"type":0}},"id":{"uuid":"F645A2F4-9576-47FD-ACF7-AB8AAE7376D7"}}
