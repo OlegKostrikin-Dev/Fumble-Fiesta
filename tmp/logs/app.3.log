@@ -1,1 +1,41 @@
-[13:47:33.164784] [APP] [info] (th=11628) ::: LOG SESSION ENDED :::
+[2024-06-04 17:40:47.769] [APP] [info] ::: LOG SESSION STARTED :::
+[17:40:47.771959] [Animation] [info] (th=7992) Log level for 'Animation' set to 'info'
+[17:40:47.771963] [APP] [warning] (th=7992) Change animation log level to off
+[17:40:50.015032] [BaseScriptSystem] [info] (th=7992) Log level for 'BaseScriptSystem' set to 'info'
+[17:40:50.047381] [MQYouTubeController] [info] (th=7992) Log level for 'MQYouTubeController' set to 'info'
+[17:40:50.047387] [MQYouTubeController] [info] (th=7992) Reading: https://www.googleapis.com/youtube/v3/videos?key=AIzaSyDrOFf-an_40ppVVjlUf8Ju3ip04l-Igxg&id=TPjS75KvXcU,rBHlnDSCeVI,-oWL93HCtes,0R90fipbzoE,HRKOfke4P04,0SfB9fgBVe8,6bm2EqdMaGc,gbLTGtJ__Mk,LQ3zYpJeJ8Y,Oqr7w57Sq98,4lWzf7_eKYI,zTWpgkr3eWI,18JSWeJCMcQ,RUFYw4IpLOk,QzQQrKaVKj8,VcuUqAI7weM,rw59kp8TLNs,XxSivGpf2ZQ,TjAdOsKR8eo,z_zJHG3xQ4c,caw5uhfEvA0,N3D3KtzdZGY,P_sIs8OF7rk,MUFmiWgkyks,2OhiCjiCTTw,zJWjgDIP4t8,PQ7gZojkeoA,BhKpCSaazEc,44NcuQFCGG0,vy1a6SXHigM&part=snippet,contentDetails
+[17:40:51.454554] [MQObjectInspectorController] [info] (th=7992) Log level for 'MQObjectInspectorController' set to 'info'
+[17:40:51.715909] [FormulaController] [info] (th=7992) Log level for 'FormulaController' set to 'info'
+[17:40:52.657386] [SoundSystemOpenAL] [info] (th=4740) Log level for 'SoundSystemOpenAL' set to 'info'
+[17:40:52.680998] [BasePhysicsSystem] [info] (th=4740) Log level for 'BasePhysicsSystem' set to 'info'
+[17:40:55.358087] [APP] [info] (th=4740) GameCore initialization time: 2
+[17:40:55.388109] [BaseSymbolTable] [info] (th=4740) Log level for 'BaseSymbolTable' set to 'info'
+[17:40:55.388115] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__3F3F42EE_27AC_464C_BF14_700FEAB199CA__direction'
+[17:40:55.388394] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__765079E5_FD1A_4A88_9084_EAC30BA74DDB__direction'
+[17:40:55.388674] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__9B2160AE_A37B_4C87_89BA_3CF0AD9220A3__direction'
+[17:40:55.388894] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__F3DCCB5A_4AC8_4AFD_AEC3_8253BE5C286B__direction'
+[17:40:55.404961] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__24D8050F_C2F9_48B7_8887_0E93458487A8__direction'
+[17:40:55.405339] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__749EF9E0_A050_4C02_83F7_60D11E8774AE__direction'
+[17:40:55.405666] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__F72E964D_4FE5_4DEA_AB09_1407620B631F__direction'
+[17:40:55.415412] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__10450351_E3A1_49A1_9423_6BA8D48FB65C__direction'
+[17:40:55.415719] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__4F20A541_4025_45C1_BA57_9A5764FDA6F2__direction'
+[17:40:55.416020] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__C0DA5A26_8272_46F6_A4D1_4AEA2810C6A2__direction'
+[17:40:55.416362] [BaseSymbolTable] [error] (th=4740) variable already exists 'object__2C4CED22_9338_421B_92B0_13885F56717E__direction'
+[17:40:56.071134] [Scene] [info] (th=4740) Log level for 'Scene' set to 'info'
+[17:41:00.205140] [DX11View] [info] (th=4740) Log level for 'DX11View' set to 'info'
+[17:41:00.436324] [MQYouTubeController] [info] (th=7992) Videos received
+[17:41:13.578598] [MQEditorController] [info] (th=7992) Log level for 'MQEditorController' set to 'info'
+[17:41:13.580877] [ModeController] [info] (th=4740) Log level for 'ModeController' set to 'info'
+[17:41:20.565651] [NetworkScript] [info] (th=4740) Log level for 'NetworkScript' set to 'info'
+[17:41:20.565667] [NetworkScript] [info] (th=4740) gameTime: 3920 gettimeofday ms: 1717512080565 m_gameTimeOffset: 1717512076645
+[17:41:21.797635] [PhotonClient] [info] (th=4740) Log level for 'PhotonClient' set to 'info'
+[17:41:21.797651] [PhotonClient] [info] (th=4740) m_serverTimeOffset set to: 1717008110078 serverTime: 503971719 currentTimeMS:1717512081797
+[17:41:21.797653] [PhotonClient] [info] (th=4740)  Final m_serverTimeOffset: 1717008110078 ServerTime 503971719
+[17:41:21.797654] [PhotonClient] [info] (th=4740) PING: 67 variance: 42
+[17:41:22.290345] [NetworkScript] [info] (th=4740) ping: 78 delay: 271 sendMin: 78 sendMotorMax: 340
+
+[17:41:22.292376] [PhotonClient] [info] (th=4740) serverTimeOffset on PLAYING set to: 1717008110078
+[17:43:23.526597] [MQTransformController] [info] (th=4740) Log level for 'MQTransformController' set to 'info'
+[17:43:23.526658] [GizmoPanelViewModel] [info] (th=4740) Log level for 'GizmoPanelViewModel' set to 'info'
+[17:43:28.284440] [Analytics] [info] (th=7992) Log level for 'Analytics' set to 'info'
+[17:43:28.487716] [APP] [info] (th=7992) ::: LOG SESSION ENDED :::
