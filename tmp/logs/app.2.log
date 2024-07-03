@@ -1,24 +1,30 @@
-[11:40:35.756785] [MQTransformController] [info] (th=15720) Log level for 'MQTransformController' set to 'info'
-[11:40:35.756896] [GizmoPanelViewModel] [info] (th=15720) Log level for 'GizmoPanelViewModel' set to 'info'
-[11:41:15.250044] [NetworkScript] [info] (th=15720) gameTime: 20160 gettimeofday ms: 1719477675249 m_gameTimeOffset: 1719477655089
-[11:41:16.022108] [PhotonClient] [info] (th=15720) m_serverTimeOffset set to: 1717008121334 serverTime: 2469554687 currentTimeMS:1719477676021
-[11:41:16.022117] [PhotonClient] [info] (th=15720)  Final m_serverTimeOffset: 1717008121334 ServerTime -1825412608
-[11:41:16.022118] [PhotonClient] [info] (th=15720) PING: 54 variance: 38
-[11:41:16.335756] [NetworkScript] [info] (th=15720) ping: 57 delay: 220 sendMin: 60 sendMotorMax: 300
+[11:36:12.750518] [NetworkScript] [info] (th=16508) gameTime: 712957 gettimeofday ms: 1719995772750 m_gameTimeOffset: 1719995059793
+[11:36:13.554251] [PhotonClient] [info] (th=16508) m_serverTimeOffset set to: 1717008125062 serverTime: 2987648491 currentTimeMS:1719995773553
+[11:36:13.554259] [PhotonClient] [info] (th=16508)  Final m_serverTimeOffset: 1717008125062 ServerTime -1307318804
+[11:36:13.554260] [PhotonClient] [info] (th=16508) PING: 56 variance: 40
+[11:36:13.880844] [NetworkScript] [info] (th=16508) ping: 55 delay: 216 sendMin: 60 sendMotorMax: 300
 
-[11:41:16.339184] [PhotonClient] [info] (th=15720) serverTimeOffset on PLAYING set to: 1717008121334
-[11:54:25.178159] [NetworkScript] [info] (th=15720) gameTime: 809329 gettimeofday ms: 1719478465177 m_gameTimeOffset: 1719477655848
-[11:54:26.007158] [PhotonClient] [info] (th=15720) m_serverTimeOffset set to: 1717008121326 serverTime: 2470344680 currentTimeMS:1719478466006
-[11:54:26.007166] [PhotonClient] [info] (th=15720)  Final m_serverTimeOffset: 1717008121326 ServerTime -1824622615
-[11:54:26.007167] [PhotonClient] [info] (th=15720) PING: 57 variance: 39
-[11:54:26.367272] [NetworkScript] [info] (th=15720) ping: 59 delay: 225 sendMin: 60 sendMotorMax: 300
+[11:36:13.885098] [PhotonClient] [info] (th=16508) serverTimeOffset on PLAYING set to: 1717008125062
+[11:37:56.337138] [NetworkScript] [info] (th=16508) gameTime: 815753 gettimeofday ms: 1719995876336 m_gameTimeOffset: 1719995060583
+[11:37:57.281449] [PhotonClient] [info] (th=16508) m_serverTimeOffset set to: 1717008125062 serverTime: 2987752218 currentTimeMS:1719995877280
+[11:37:57.281458] [PhotonClient] [info] (th=16508)  Final m_serverTimeOffset: 1717008125062 ServerTime -1307215077
+[11:37:57.281459] [PhotonClient] [info] (th=16508) PING: 53 variance: 36
+[11:37:57.576110] [NetworkScript] [info] (th=16508) ping: 53 delay: 211 sendMin: 60 sendMotorMax: 300
 
-[11:54:26.371720] [PhotonClient] [info] (th=15720) serverTimeOffset on PLAYING set to: 1717008121326
-[11:55:40.189889] [NetworkScript] [info] (th=15720) gameTime: 883624 gettimeofday ms: 1719478540189 m_gameTimeOffset: 1719477656565
-[11:55:41.013708] [PhotonClient] [info] (th=15720) m_serverTimeOffset set to: 1717008121326 serverTime: 2470419687 currentTimeMS:1719478541013
-[11:55:41.013717] [PhotonClient] [info] (th=15720)  Final m_serverTimeOffset: 1717008121326 ServerTime -1824547608
-[11:55:41.013718] [PhotonClient] [info] (th=15720) PING: 58 variance: 39
-[11:55:41.319979] [NetworkScript] [info] (th=15720) ping: 48 delay: 199 sendMin: 60 sendMotorMax: 300
+[11:37:57.579710] [PhotonClient] [info] (th=16508) serverTimeOffset on PLAYING set to: 1717008125062
+[11:45:41.668564] [NetworkScript] [info] (th=16508) gameTime: 1281085 gettimeofday ms: 1719996341667 m_gameTimeOffset: 1719995060582
+[11:45:42.522776] [PhotonClient] [info] (th=16508) m_serverTimeOffset set to: 1717008125066 serverTime: 2988217456 currentTimeMS:1719996342522
+[11:45:42.522784] [PhotonClient] [info] (th=16508)  Final m_serverTimeOffset: 1717008125066 ServerTime -1306749839
+[11:45:42.522785] [PhotonClient] [info] (th=16508) PING: 55 variance: 36
+[11:45:42.821334] [NetworkScript] [info] (th=16508) ping: 50 delay: 204 sendMin: 60 sendMotorMax: 300
 
-[11:55:41.324197] [PhotonClient] [info] (th=15720) serverTimeOffset on PLAYING set to: 1717008121326
-[11:57:46.589137] [APP] [info] (th=15416) ::: LOG SESSION ENDED :::
+[11:45:42.825344] [PhotonClient] [info] (th=16508) serverTimeOffset on PLAYING set to: 1717008125066
+[11:46:06.895747] [Clipboard] [info] (th=14532) Log level for 'Clipboard' set to 'info'
+[12:11:36.283697] [NetworkScript] [info] (th=16508) gameTime: 2834958 gettimeofday ms: 1719997896283 m_gameTimeOffset: 1719995061325
+[12:11:37.154727] [PhotonClient] [info] (th=16508) m_serverTimeOffset set to: 1717008125046 serverTime: 2989772108 currentTimeMS:1719997897154
+[12:11:37.154733] [PhotonClient] [info] (th=16508)  Final m_serverTimeOffset: 1717008125046 ServerTime -1305195187
+[12:11:37.154734] [PhotonClient] [info] (th=16508) PING: 60 variance: 41
+[12:11:37.523148] [NetworkScript] [info] (th=16508) ping: 62 delay: 232 sendMin: 60 sendMotorMax: 300
+
+[12:11:37.527857] [PhotonClient] [info] (th=16508) serverTimeOffset on PLAYING set to: 1717008125046
+[12:17:35.411329] [APP] [info] (th=14532) ::: LOG SESSION ENDED :::

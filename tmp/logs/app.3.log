@@ -1,8 +1,19 @@
-[11:11:50.717218] [NetworkScript] [info] (th=4960) gameTime: 627421 gettimeofday ms: 1719475910716 m_gameTimeOffset: 1719475283295
-[11:11:51.560553] [PhotonClient] [info] (th=4960) m_serverTimeOffset set to: 1717008121339 serverTime: 2467790220 currentTimeMS:1719475911559
-[11:11:51.560562] [PhotonClient] [info] (th=4960)  Final m_serverTimeOffset: 1717008121339 ServerTime -1827177075
-[11:11:51.560563] [PhotonClient] [info] (th=4960) PING: 53 variance: 40
-[11:11:51.869298] [NetworkScript] [info] (th=4960) ping: 53 delay: 211 sendMin: 60 sendMotorMax: 300
+[11:15:31.275210] [MQTransformController] [info] (th=13812) Log level for 'MQTransformController' set to 'info'
+[11:15:31.305958] [MQRigidbodyController] [info] (th=13812) Log level for 'MQRigidbodyController' set to 'info'
+[11:15:31.306024] [MQNetworkCompController] [info] (th=13812) Log level for 'MQNetworkCompController' set to 'info'
+[11:15:31.323517] [AudioSourcePanelViewModel] [info] (th=13812) Log level for 'AudioSourcePanelViewModel' set to 'info'
+[11:15:31.323524] [AudioSourcePanelViewModel] [error] (th=13812) Cannot load view/model
+[11:16:15.193484] [AudioSourcePanelViewModel] [error] (th=13812) Cannot load view/model
+[11:16:16.750783] [AudioSourcePanelViewModel] [error] (th=13812) Cannot load view/model
+[11:16:36.009935] [AudioSourcePanelViewModel] [error] (th=13812) Cannot load view/model
+[11:17:57.992909] [AudioSourcePanelViewModel] [error] (th=13812) Cannot load view/model
+[11:17:59.362514] [AudioSourcePanelViewModel] [error] (th=13812) Cannot load view/model
+[11:18:50.314589] [AudioSourcePanelViewModel] [error] (th=13812) Cannot load view/model
+[11:18:59.472844] [NetworkScript] [info] (th=13812) gameTime: 452952 gettimeofday ms: 1719994739472 m_gameTimeOffset: 1719994286520
+[11:19:00.469334] [PhotonClient] [info] (th=13812) m_serverTimeOffset set to: 1717008125075 serverTime: 2986615394 currentTimeMS:1719994740469
+[11:19:00.469342] [PhotonClient] [info] (th=13812)  Final m_serverTimeOffset: 1717008125075 ServerTime -1308351901
+[11:19:00.469343] [PhotonClient] [info] (th=13812) PING: 57 variance: 43
+[11:19:00.815326] [NetworkScript] [info] (th=13812) ping: 54 delay: 213 sendMin: 60 sendMotorMax: 300
 
-[11:11:51.873258] [PhotonClient] [info] (th=4960) serverTimeOffset on PLAYING set to: 1717008121339
-[11:14:18.465796] [APP] [info] (th=14304) ::: LOG SESSION ENDED :::
+[11:19:00.818894] [PhotonClient] [info] (th=13812) serverTimeOffset on PLAYING set to: 1717008125075
+[11:20:18.002447] [APP] [info] (th=10196) ::: LOG SESSION ENDED :::
