@@ -1,7 +1,7 @@
 {
   "@class": "VariousSymbolTable",
   "id": {
-    "uuid": "218D96D7-3EAA-4894-A201-2F674DAD8D6C"
+    "uuid": "DCEF2ED3-ED7E-43A6-BED8-9FA3ED68F26A"
   },
   "variables": [
     {
@@ -73,6 +73,16 @@
       "sync": true,
       "type": "float",
       "value": 7.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "9B336317-E35C-4607-9EF0-AC352026A53B"
+      },
+      "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__disable_save",
+      "sync": true,
+      "type": "bool",
+      "value": false
     }
   ]
 }
