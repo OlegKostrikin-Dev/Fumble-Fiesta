@@ -1,7 +1,7 @@
 {
   "@class": "VariousSymbolTable",
   "id": {
-    "uuid": "DCEF2ED3-ED7E-43A6-BED8-9FA3ED68F26A"
+    "uuid": "D45DF6D1-A6C9-48B6-8BE3-E5696D240040"
   },
   "variables": [
     {
@@ -42,7 +42,7 @@
       "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Belly",
       "sync": true,
       "type": "float",
-      "value": 7.0
+      "value": 0.0
     },
     {
       "@class": "VariantVariable",
@@ -72,17 +72,7 @@
       "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Face",
       "sync": true,
       "type": "float",
-      "value": 7.0
-    },
-    {
-      "@class": "VariantVariable",
-      "id": {
-        "uuid": "9B336317-E35C-4607-9EF0-AC352026A53B"
-      },
-      "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__disable_save",
-      "sync": true,
-      "type": "bool",
-      "value": false
+      "value": 0.0
     }
   ]
 }

@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "@class": "BaseNode",
+      "@context": "null",
+      "object3D": {
+        "@class": "BaseObject3D",
+        "enabled": true,
+        "hitVisible": true,
+        "id": {
+          "uuid": "52318785-2D75-4C19-BDCE-C153CDFB18D5"
+        },
+        "metadata": {
+          "importedIdentifier": "",
+          "importedName": "",
+          "isBone": false,
+          "storages": [],
+          "tags": []
+        },
+        "name": "Cheat",
+        "runtime_state_storable": [],
+        "timeline": {
+          "@class": "BaseComponentTimeline",
+          "mappingProvider": {
+            "@class": "IdPoolBase",
+            "prototypeToInstanceMap": [
+              {
+                "key": {
+                  "uuid": "2A9793EF-D3AF-4120-AA59-4FD443E030BA"
+                },
+                "value": {
+                  "uuid": "E19EFF01-7C00-4D3B-84B1-D0FAC34528F3"
+                }
+              },
+              {
+                "key": {
+                  "uuid": "3B405C3E-0BDB-452D-BA9D-7397FBABDD02"
+                },
+                "value": {
+                  "uuid": "146262B2-45AE-4B06-9CDF-C93E77C391E5"
+                }
+              },
+              {
+                "key": {
+                  "uuid": "3BB201B5-9799-4978-ADE2-71C4DEF1B1C1"
+                },
+                "value": {
+                  "uuid": "E19EFF01-7C00-4D3B-84B1-D0FAC34528F3"
+                }
+              },
+              {
+                "key": {
+                  "uuid": "42DDB976-C0F1-455F-8E8C-6668DF8196F2"
+                },
+                "value": {
+                  "uuid": "8F3B4D71-14C2-494A-B904-05FDDA113F9F"
+                }
+              },
+              {
+                "key": {
+                  "uuid": "5BF3D84F-348A-4419-B604-870BF4AFCE96"
+                },
+                "value": {
+                  "uuid": "00000000-0000-0000-0000-000000000000"
+                }
+              },
+              {
+                "key": {
+                  "uuid": "75F6B046-A7CC-4F2A-B099-6594CB8F5335"
+                },
+                "value": {
+                  "uuid": "F1822464-0AF4-4D01-AF3F-0DA752A70189"
+                }
+              },
+              {
+                "key": {
+                  "uuid": "DB0C8A08-5315-40A2-B9B9-31AFB1E2BB94"
+                },
+                "value": {
+                  "uuid": "F1822464-0AF4-4D01-AF3F-0DA752A70189"
+                }
+              }
+            ]
+          },
+          "timelineId": {
+            "uuid": "7FA805F0-F4CF-4FC6-8BCA-8D4CA7C63E7D"
+          }
+        },
+        "transform": {
+          "@class": "BaseComponentTransformable",
+          "globalTransforms": {
+            "values": [
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              1031.612060546875,
+              18.87397003173828,
+              0.0,
+              1.0
+            ]
+          },
+          "isGlobalTransforms": false,
+          "localTransforms": {
+            "values": [
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        "visible": true
+      }
+    }
+  ]
+}
