@@ -1,0 +1,54 @@
+{
+  "@class": "BaseObject3D",
+  "enabled": true,
+  "hitVisible": true,
+  "id": {
+    "uuid": "ADC72106-9FE6-4294-A940-DEE70F6647E4"
+  },
+  "name": "Variables Storage",
+  "transform": {
+    "@class": "BaseComponentTransformable",
+    "globalTransforms": {
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    "isGlobalTransforms": false,
+    "localTransforms": {
+      "values": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  },
+  "visible": true
+}
