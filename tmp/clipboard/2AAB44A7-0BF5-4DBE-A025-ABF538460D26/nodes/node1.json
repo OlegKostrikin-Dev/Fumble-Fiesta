@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "@class": "BaseNode",
+      "@context": "null",
+      "children": [
+        "2BF35424-D85B-487E-BCC5-ED6640C46FF8",
+        "13831F38-F5E8-46C6-8B3F-F7DC0507750E"
+      ],
+      "object3D": {
+        "@class": "BaseObject3D",
+        "enabled": true,
+        "hitVisible": true,
+        "id": {
+          "uuid": "B18E7675-4A8D-4676-A492-97638B9CB337"
+        },
+        "metadata": {
+          "importedIdentifier": "",
+          "importedName": "",
+          "isBone": false,
+          "storages": [],
+          "tags": []
+        },
+        "name": "Cowboy hat",
+        "runtime_state_storable": [],
+        "transform": {
+          "@class": "BaseComponentTransformable",
+          "globalTransforms": {
+            "values": [
+              -0.5999999642372131,
+              0.0,
+              2.2407618871511659e-07,
+              0.0,
+              3.4190740905160055e-08,
+              0.5846220850944519,
+              0.13497069478034973,
+              0.0,
+              -2.1962189578061952e-07,
+              0.13497065007686615,
+              -0.5846220850944519,
+              0.0,
+              -74.19922637939453,
+              10.134740829467773,
+              -2.7575597763061523,
+              1.0
+            ]
+          },
+          "isGlobalTransforms": false,
+          "localTransforms": {
+            "values": [
+              -2.7101480171154435e-08,
+              0.0,
+              -0.29999998211860657,
+              0.0,
+              -0.06748534739017487,
+              0.29231107234954834,
+              0.0,
+              0.0,
+              0.29231104254722595,
+              0.06748533248901367,
+              -3.5762788286319847e-08,
+              0.0,
+              1.2529546022415161,
+              0.0,
+              -0.005446076393127441,
+              1.0
+            ]
+          }
+        },
+        "visible": true
+      }
+    },
+    {
+      "@class": "BaseNode",
+      "@context": "null",
+      "object3D": {
+        "@class": "BaseObject3D",
+        "enabled": true,
+        "geometry": {
+          "@class": "BaseComponentGeometry",
+          "baked": false,
+          "meshId": {
+            "uuid": "2E7F5564-2049-48C4-982C-66E19E161CD9"
+          },
+          "shadowCast": true,
+          "shadowReceive": true,
+          "static": false
+        },
+        "hitVisible": true,
+        "id": {
+          "uuid": "2BF35424-D85B-487E-BCC5-ED6640C46FF8"
+        },
+        "material": {
+          "@class": "BaseComponentMaterial",
+          "materialId": {
+            "uuid": "6A453646-2B82-4EEB-8B78-431956169590"
+          }
+        },
+        "metadata": {
+          "importedIdentifier": "Farmer_Head.001",
+          "importedName": "Farmer_Head.001",
+          "isBone": false,
+          "storages": [],
+          "tags": [
+            {
+              "uuid": "607AB4B5-5576-48E6-AE53-28490988BD2D"
+            }
+          ]
+        },
+        "name": "Hat",
+        "runtime_state_storable": [],
+        "transform": {
+          "@class": "BaseComponentTransformable",
+          "globalTransforms": {
+            "values": [
+              -0.5999999642372131,
+              0.0,
+              2.2407618871511659e-07,
+              0.0,
+              3.4190740905160055e-08,
+              0.5846220850944519,
+              0.13497069478034973,
+              0.0,
+              -2.1962189578061952e-07,
+              0.13497065007686615,
+              -0.5846220850944519,
+              0.0,
+              -74.19922637939453,
+              10.134740829467773,
+              -2.7575597763061523,
+              1.0
+            ]
+          },
+          "isGlobalTransforms": false,
+          "localTransforms": {
+            "values": [
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        "visible": true
+      }
+    },
+    {
+      "@class": "BaseNode",
+      "@context": "null",
+      "object3D": {
+        "@class": "BaseObject3D",
+        "enabled": true,
+        "geometry": {
+          "@class": "BaseComponentGeometry",
+          "baked": false,
+          "meshId": {
+            "uuid": "817E6C9B-2425-4FE3-9796-ACB7838991AD"
+          },
+          "shadowCast": true,
+          "shadowReceive": true,
+          "static": false
+        },
+        "hitVisible": true,
+        "id": {
+          "uuid": "13831F38-F5E8-46C6-8B3F-F7DC0507750E"
+        },
+        "material": {
+          "@class": "BaseComponentMaterial",
+          "materialId": {
+            "uuid": "E0ECF12C-F888-49CA-8B61-8171E6AD9131"
+          }
+        },
+        "metadata": {
+          "importedIdentifier": "Farmer_Head.001",
+          "importedName": "Farmer_Head.001",
+          "isBone": false,
+          "storages": [],
+          "tags": [
+            {
+              "uuid": "607AB4B5-5576-48E6-AE53-28490988BD2D"
+            }
+          ]
+        },
+        "name": "Banner",
+        "runtime_state_storable": [],
+        "transform": {
+          "@class": "BaseComponentTransformable",
+          "globalTransforms": {
+            "values": [
+              -0.5999999642372131,
+              0.0,
+              2.2407618871511659e-07,
+              0.0,
+              3.4190740905160055e-08,
+              0.5846220850944519,
+              0.13497069478034973,
+              0.0,
+              -2.1962189578061952e-07,
+              0.13497065007686615,
+              -0.5846220850944519,
+              0.0,
+              -74.19922637939453,
+              10.134740829467773,
+              -2.7575597763061523,
+              1.0
+            ]
+          },
+          "isGlobalTransforms": false,
+          "localTransforms": {
+            "values": [
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        "visible": true
+      }
+    }
+  ]
+}
