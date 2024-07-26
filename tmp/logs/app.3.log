@@ -1,5 +1,1 @@
-[2024-07-22 16:56:32.262] [APP] [info] ::: LOG SESSION STARTED :::
-[16:56:32.265271] [Animation] [info] (th=13028) Log level for 'Animation' set to 'info'
-[16:56:32.265275] [APP] [warning] (th=13028) Change animation log level to off
-[16:56:33.720443] [Analytics] [info] (th=15996) Log level for 'Analytics' set to 'info'
-[16:56:35.423207] [BaseScriptSystem] [info] (th=13028) Log level for 'BaseScriptSystem' set to 'info'
+[16:55:03.440071] [APP] [info] (th=14592) ::: LOG SESSION ENDED :::

@@ -1,0 +1,78 @@
+{
+  "@class": "VariousSymbolTable",
+  "id": {
+    "uuid": "201BC22E-E05F-4C06-AA6D-CC7F3331FE4F"
+  },
+  "variables": [
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "8F432FA5-9ADC-4F5C-84ED-9FF22C4D4E46"
+      },
+      "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Body",
+      "sync": true,
+      "type": "float",
+      "value": 4.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "FC776084-2104-4E0B-AEB4-F3EE96D7C983"
+      },
+      "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Eyes",
+      "sync": true,
+      "type": "float",
+      "value": 0.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "68FDAB0C-EF83-4603-8862-C7AE582710F9"
+      },
+      "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Hands",
+      "sync": true,
+      "type": "float",
+      "value": 6.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "6A7848F6-33E9-4705-862F-A942E2EA13DE"
+      },
+      "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Belly",
+      "sync": true,
+      "type": "float",
+      "value": 2.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "C34EF875-9BF9-47F5-8A56-03DD5940A9E9"
+      },
+      "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Head_Item",
+      "sync": true,
+      "type": "float",
+      "value": 3.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "60AB4952-F254-4FFA-8526-BC96E713B2E7"
+      },
+      "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Back_Item",
+      "sync": true,
+      "type": "float",
+      "value": 3.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "4B226C8F-39CA-4DC5-B73A-77033306C368"
+      },
+      "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Face",
+      "sync": true,
+      "type": "float",
+      "value": 6.0
+    }
+  ]
+}
