@@ -1,6 +1,7 @@
 {
   "@class": "BaseObject3D",
   "enabled": true,
+  "enabledHierarchy": true,
   "hitVisible": true,
   "id": {
     "uuid": "ADC72106-9FE6-4294-A940-DEE70F6647E4"

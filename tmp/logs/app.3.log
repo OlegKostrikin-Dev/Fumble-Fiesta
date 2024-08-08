@@ -1,2 +1,8 @@
-[20:06:25.932838] [Clipboard] [info] (th=14096) Log level for 'Clipboard' set to 'info'
-[20:07:37.752349] [APP] [info] (th=14096) ::: LOG SESSION ENDED :::
+[15:18:06.241750] [NetworkScript] [info] (th=7880) gameTime: 744155 gettimeofday ms: 1723119486241 m_gameTimeOffset: 1723118742086
+[15:18:07.066582] [PhotonClient] [info] (th=7880) m_serverTimeOffset set to: 1721303112909 serverTime: 1816374157 currentTimeMS:1723119487066
+[15:18:07.066590] [PhotonClient] [info] (th=7880)  Final m_serverTimeOffset: 1721303112909 ServerTime 1816374157
+[15:18:07.066591] [PhotonClient] [info] (th=7880) PING: 52 variance: 41
+[15:18:07.431571] [NetworkScript] [info] (th=7880) ping: 50 delay: 204 sendMin: 60 sendMotorMax: 300
+
+[15:18:07.434668] [PhotonClient] [info] (th=7880) serverTimeOffset on PLAYING set to: 1721303112909
+[15:21:23.397414] [APP] [info] (th=2616) ::: LOG SESSION ENDED :::
