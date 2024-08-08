@@ -1,0 +1,26 @@
+{
+  "@class": "ObjEnabledTrigger",
+  "eventType": 3,
+  "id": {
+    "uuid": "4D99D718-4C3A-408F-9AA9-7803D2203A9D"
+  },
+  "isInverted": false,
+  "logicOperation": 1,
+  "objectBindingLink": {
+    "@class": "BindingLink",
+    "target": {
+      "id": {
+        "uuid": "29238ED7-C53B-4268-8378-7E163FC73565"
+      },
+      "optionalId": {
+        "uuid": "1829367F-7281-4ED7-A6FC-94CCD156DCD9"
+      },
+      "type": 0
+    }
+  },
+  "ownerScriptId": {
+    "uuid": "D5554403-22ED-4CDC-A368-0A257E4579FE"
+  },
+  "resultType": 0,
+  "triggerName": ""
+}
