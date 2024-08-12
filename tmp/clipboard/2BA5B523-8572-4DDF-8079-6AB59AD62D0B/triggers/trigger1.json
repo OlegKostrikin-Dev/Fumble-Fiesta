@@ -1,0 +1,17 @@
+{
+  "@class": "CompareTrigger",
+  "eventType": "result_true",
+  "id": {
+    "uuid": "69A25C9C-4DF6-4F24-AEA2-292B36FE1861"
+  },
+  "isInverted": false,
+  "leftOperand": "object__B316B150_7CB7_4B1F_B089_B180B7F1E3D7__PlayStarted",
+  "logicOperation": 0,
+  "operation": "==",
+  "ownerScriptId": {
+    "uuid": "F16FF424-CE5F-4F4A-83D2-D4B213396CD8"
+  },
+  "resultType": 0,
+  "rightOperand": "true",
+  "triggerName": ""
+}
