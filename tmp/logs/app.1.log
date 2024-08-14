@@ -1,8 +1,0 @@
-[15:57:27.360502] [NetworkScript] [info] (th=15052) gameTime: 318871 gettimeofday ms: 1723121847360 m_gameTimeOffset: 1723121528489
-[15:57:28.326129] [PhotonClient] [info] (th=15052) m_serverTimeOffset set to: 1721303112908 serverTime: 1818735417 currentTimeMS:1723121848325
-[15:57:28.326138] [PhotonClient] [info] (th=15052)  Final m_serverTimeOffset: 1721303112908 ServerTime 1818735417
-[15:57:28.326140] [PhotonClient] [info] (th=15052) PING: 55 variance: 37
-[15:57:28.649144] [NetworkScript] [info] (th=15052) ping: 49 delay: 201 sendMin: 60 sendMotorMax: 300
-
-[15:57:28.652557] [PhotonClient] [info] (th=15052) serverTimeOffset on PLAYING set to: 1721303112908
-[16:04:21.990999] [APP] [info] (th=3516) ::: LOG SESSION ENDED :::

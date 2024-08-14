@@ -1,7 +1,7 @@
 {
   "@class": "VariousSymbolTable",
   "id": {
-    "uuid": "BAB83816-D237-4BB5-A4C1-82C55C51A6A2"
+    "uuid": "1392D245-D320-4B4D-92EA-5B6374B684DF"
   },
   "variables": [
     {
@@ -12,7 +12,7 @@
       "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Body",
       "sync": true,
       "type": "float",
-      "value": 3.0
+      "value": 0.0
     },
     {
       "@class": "VariantVariable",
@@ -22,7 +22,7 @@
       "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Eyes",
       "sync": true,
       "type": "float",
-      "value": 2.0
+      "value": 0.0
     },
     {
       "@class": "VariantVariable",
@@ -32,7 +32,7 @@
       "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Hands",
       "sync": true,
       "type": "float",
-      "value": 7.0
+      "value": 0.0
     },
     {
       "@class": "VariantVariable",
@@ -42,7 +42,7 @@
       "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Belly",
       "sync": true,
       "type": "float",
-      "value": 1.0
+      "value": 8.0
     },
     {
       "@class": "VariantVariable",
@@ -52,7 +52,7 @@
       "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Head_Item",
       "sync": true,
       "type": "float",
-      "value": 3.0
+      "value": 0.0
     },
     {
       "@class": "VariantVariable",
@@ -62,7 +62,7 @@
       "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Back_Item",
       "sync": true,
       "type": "float",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "@class": "VariantVariable",
@@ -72,7 +72,7 @@
       "name": "object__ADC72106_9FE6_4294_A940_DEE70F6647E4__Face",
       "sync": true,
       "type": "float",
-      "value": 4.0
+      "value": 0.0
     }
   ]
 }
